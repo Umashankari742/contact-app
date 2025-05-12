@@ -134,6 +134,17 @@ Authorization: Bearer <token>
 
 ![App Screenshot](./project-screenshot.png)
 
+
+### 🔹 Home Page
+![Home Page](./get-method.png)
+
+//### 🔹 Register API
+//![Register API](./screenshot-register.png)
+
+//### 🔹 Postman Test
+//![Postman Test](./screenshot-postman.png)
+
+
 ---
 
 ## 🧑‍💻 Author
