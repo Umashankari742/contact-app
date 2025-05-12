@@ -130,6 +130,12 @@ Authorization: Bearer <token>
 
 ---
 
+## 📸 Screenshot
+
+![App Screenshot](./project-screenshot.png)
+
+---
+
 ## 🧑‍💻 Author
 
 - [Umashankari](https://github.com/Umashankari742)
